@@ -25,8 +25,6 @@ A proposta é simples: oferecer apenas o necessário para quem quer uma vida fin
 - ✅ Pagamento de boletos
 - ✅ Extrato detalhado
 
-*Foco no básico bem feito.*
-
 ## 🏗️ Status do Projeto
 
 **Fase atual:** Modelagem e Design
