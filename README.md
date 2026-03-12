@@ -32,8 +32,8 @@ A proposta é simples: oferecer apenas o necessário para quem quer uma vida fin
 - [x] Levantamento de requisitos
 - [x] Diagrama de classes UML
 - [x] Definição da arquitetura
-- [ ] **Modelagem do banco de dados** ← *Estamos aqui*
-- [ ] Desenvolvimento backend (Java/Spring Boot)
+- [x] Modelagem do banco de dados*
+- [ ] Desenvolvimento backend (Java/Spring Boot) ← *Estamos aqui*
 - [ ] Prototipação no Figma
 - [ ] Desenvolvimento frontend
 - [ ] Testes e validação
