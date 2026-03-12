@@ -25,8 +25,6 @@ A proposta é simples: oferecer apenas o necessário para quem quer uma vida fin
 - ✅ Pagamento de boletos
 - ✅ Extrato detalhado
 
-*Foco no básico bem feito.*
-
 ## 🏗️ Status do Projeto
 
 **Fase atual:** Modelagem e Design
@@ -52,11 +50,11 @@ O sistema foi modelado seguindo princípios de orientação a objetos:
 ### Stack Tecnológica (Planejada)
 
 **Backend:**
-- Java 17+;
-- Spring Boot 3.x;
+- Java 24;
+- Spring Boot 4.0;
 - Spring Data JPA;
 - Spring Security;
-- PostgreSQL/MySQL.
+- MySQL.
 
 **Frontend:**
 - React.js;
@@ -67,7 +65,6 @@ O sistema foi modelado seguindo princípios de orientação a objetos:
 - Docker;
 - CI/CD (GitHub Actions).
 
-
 ## 🤝 Contribuindo
 
 Este é um projeto em desenvolvimento ativo. Contribuições, sugestões e feedback são bem-vindos!
@@ -77,10 +74,5 @@ Este é um projeto em desenvolvimento ativo. Contribuições, sugestões e feedb
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
-
 Israel Medeiros
 https://www.linkedin.com/in/israelmedeiros/
-
----
-
-**Theocash** - *Finanças simples para vidas descomplicadas* 💚
